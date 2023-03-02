@@ -193,6 +193,7 @@
     <Content Include="assets\js\scripts.js" />
     <Content Include="Cart.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="ignore.gitattributes" />
     <Content Include="ProductDetails.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Profile.aspx" />
