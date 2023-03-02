@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISkp", "ISkp\ISkp.csproj", "{37087E04-2D81-4F52-9E12-88E3B8A466FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37087E04-2D81-4F52-9E12-88E3B8A466FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37087E04-2D81-4F52-9E12-88E3B8A466FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37087E04-2D81-4F52-9E12-88E3B8A466FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37087E04-2D81-4F52-9E12-88E3B8A466FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD883AA-1883-49A0-A21D-B574A6F66989}
+	EndGlobalSection
+EndGlobal
